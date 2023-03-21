@@ -13,9 +13,5 @@ Hello, I am Test Automation Engineer,<br>Always detailed and inquisitive!<br>Sho
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YahyaKanibol&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaKanibol&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=YahyaKanibol&icon=6&color=2)](https://visitcount.itsvg.in)
 
